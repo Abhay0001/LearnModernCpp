@@ -20,7 +20,7 @@ int *p1, *p2, *p3, p4;
 & is the 'address of' operator. When applied to any variable, we get the address of that variable (the location where it is stored in memory)
 
 */
-int main() {
+int main8() {
 	int x{10};
 	cout << &x << endl;
 	cout << x << endl;

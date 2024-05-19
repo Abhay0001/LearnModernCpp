@@ -14,7 +14,7 @@ int add(int x, int y); // Prototype or declaration of a function
 using namespace std;
 
 //Execution of the prog starts at main
-int main() {
+int main3() {
 	/*
 	Primitive Types:
 	1.Arithmetic

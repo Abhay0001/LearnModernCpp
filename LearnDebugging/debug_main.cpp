@@ -9,7 +9,7 @@ int factorial(int x) {
 	return res;
 }
 
-int main() {
+int main1() {
 	int i;
 	std::cout << "Enter a natural number\n";
 	std::cin >> i;

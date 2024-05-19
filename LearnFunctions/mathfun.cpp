@@ -1,7 +1,7 @@
 #include<iostream>
 
 //Global function since defined in its source ('.cpp') file
-int add(int x, int y) {
+int add1(int x, int y) {
 	int sum = x + y;
 	return sum;
 }

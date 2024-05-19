@@ -18,7 +18,7 @@ void print_value(int *ptr) {
 		cout << *ptr;
 }
 // a reference will always need an initializer referent
-int main() {
+int main5() {
 	//Variable is an 'identifier of a memory location'
 	int x = 10;
 	int &ref = x;

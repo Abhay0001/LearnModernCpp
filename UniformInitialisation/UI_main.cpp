@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main7() {
 	int a1; //Uninitialized
 	int a2 = 0; //Copy initialization
 	int a3(6); // Direct initialization
@@ -19,7 +19,7 @@ int main() {
 	char e1[8]{}; //Value initialization
 	char e3[8]{ "Hello" };
 
-
+	return 0;
 
 
 

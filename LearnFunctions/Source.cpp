@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int main() { //Global function since defined in its source ('.ccp') file
+int main6() { //Global function since defined in its source ('.ccp') file
 	int i = 4, j = 5;
 	float k = 5.1f;
 	int result = add(i, j);
