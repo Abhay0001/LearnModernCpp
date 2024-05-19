@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main4() {
 	float arr[] = {1,2,3,6.3f,5,11,12};
 	for (const auto &i : arr) {
 		int x = i*2;
